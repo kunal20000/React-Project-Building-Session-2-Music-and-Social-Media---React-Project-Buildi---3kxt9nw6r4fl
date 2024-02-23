@@ -1,3 +1,11 @@
-<nav className="navbar">
-  <h1>kunal</h1>
-</nav>
+import React from 'react';
+
+const Navbar = () => {
+  return (
+    <div className='navbar-container'>
+      
+    </div>
+  );
+}
+
+export default Navbar;
